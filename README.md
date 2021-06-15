@@ -12,4 +12,34 @@ Creating an auction website where users can buy products by bidding as well as a
 ### Demonstration:
 1. **Index page:** All the listings are displayed here
 
+![](demo/image5.png)
+
+Sold products will be promoted by ‘Item sold’ in red
+
+2. **Registration page:**
+
+![](demo/image9.png)
+
+3. **Login page:**
+
+![](demo/image4.png)
+
+4. **Creating a listing:**
+
+![](demo/image15.png)
+
+Listing gets added to the index page
+
+![](demo/image6.png)
+
+5. **Dashboard:** Enables users to see their listings that they created
+
+![](demo/image14.png)
+
+6. **Viewing the listing as the owner**
+
+![](demo/image20.png)
+
+
+
 
