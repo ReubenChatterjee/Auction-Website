@@ -12,7 +12,7 @@ Creating an auction website where users can buy products by bidding as well as a
 ### Demonstration:
 1. **Index page:** All the listings are displayed here
 
-![](demo/image5.png)
+![](demo/image8.png)
 
 Sold products will be promoted by ‘Item sold’ in red
 
@@ -91,7 +91,7 @@ The winner of the bid can contact the owner via email
 
 The listing can no longer be viewed in the index page
 
-![](demo/image8.png)
+![](demo/image5.png)
 
 
 
