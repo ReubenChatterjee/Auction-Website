@@ -40,6 +40,58 @@ Listing gets added to the index page
 
 ![](demo/image20.png)
 
+Close bid: closes the bid and allocates the product to the highest bidder.
+Delete: deletes the current listing.
+
+7. **Viewing the listing as another user**
+
+![](demo/image13.png)
+
+The other users except the owner of the product can bid as well as add to their watchlist
+
+8. **Placing a bid lower than the current bid.**
+
+![](demo/image16.png)
+
+Throws an alert
+
+![](demo/image17.png)
+
+9. **Adding valid bid**
+
+![](demo/image12.png)
+
+Changes the bidder to the current user
+
+![](demo/image19.png)
+
+10. **Adding to watchlist**
+
+![](demo/image11.png)
+
+![](demo/image3.png)
+
+11. **Closing the bid**
+
+![](demo/image10.png)
+
+Closing the bid will help the owner contact the highest bidder of that product via email
+
+![](demo/image18.png)
+
+12. **Viewing the listing from the highest bidder account**
+
+![](demo/image1.png)
+
+The winner of the bid can contact the owner via email
+
+13. **Deleting the listing**
+
+![](demo/image7.png)
+
+The listing can no longer be viewed in the index page
+
+![](demo/image8.png)
 
 
 
