@@ -40,8 +40,7 @@ Listing gets added to the index page
 
 ![](demo/image20.png)
 
-Close bid: closes the bid and allocates the product to the highest bidder.
-Delete: deletes the current listing.
+**Close bid:** closes the bid and allocates the product to the highest bidder. **Delete:** deletes the current listing.
 
 7. **Viewing the listing as another user**
 
